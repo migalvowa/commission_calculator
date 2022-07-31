@@ -1,4 +1,4 @@
-Before running this application, you need to install all required packages using the command:
+After uploading this repo locally, you need to install all required packages using the command in the project directory:
 
 ### `npm install`
 
